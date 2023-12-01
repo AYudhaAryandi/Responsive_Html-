@@ -1,0 +1,23 @@
+@media (min-width: 320px) and (max-width: 768px) {
+  .konten {
+    margin: 30px;
+    text-align: center;
+  }
+  .jumbotron{
+    
+  }
+  .jumbotron h2 {
+    padding-top: 10px;
+    font-size: 30px;
+  }
+  .jumbotron p {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 10px;
+  }
+
+  .parent{
+    flex-wrap: wrap;
+  }
+  
+}
